@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579138421 source:d:\kami\ista\ar23_an_easy_encoder\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

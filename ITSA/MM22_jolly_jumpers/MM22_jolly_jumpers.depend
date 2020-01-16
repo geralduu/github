@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545592620 source:d:\神的資料夾\ista\mm22_jolly_jumpers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

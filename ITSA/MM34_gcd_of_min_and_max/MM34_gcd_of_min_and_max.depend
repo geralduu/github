@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545625022 source:d:\神的資料夾\ista\mm34_gcd_of_min_and_max\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545519045 source:d:\神的資料夾\mm07_the_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579159665 source:d:\kami\ista\mm07_the_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

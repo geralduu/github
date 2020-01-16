@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545649708 source:d:\神的資料夾\ista\read\ar27_who_is_missing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

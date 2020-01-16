@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545653888 source:d:\神的資料夾\ista\read\dp10_fibonacci_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

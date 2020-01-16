@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545660849 source:d:\神的資料夾\ista\read\mm30_power_et_al\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579159902 source:d:\kami\ista\mm21_the_slope\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

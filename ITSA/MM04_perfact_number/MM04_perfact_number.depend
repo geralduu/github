@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545471603 source:d:\神的資料夾\mm04_perfact_number\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1579159171 source:d:\kami\ista\mm04_perfact_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

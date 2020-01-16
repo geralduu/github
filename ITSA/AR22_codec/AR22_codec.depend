@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579137404 source:d:\kami\ista\ar22_codec\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

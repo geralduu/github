@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545596641 source:d:\神的資料夾\ista\mm36_prime_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
